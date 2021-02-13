@@ -1,3 +1,5 @@
-module github.com/lbp0200/diskdis
+module diskdis
 
 go 1.15
+
+require github.com/dgraph-io/badger/v3 v3.2011.1
